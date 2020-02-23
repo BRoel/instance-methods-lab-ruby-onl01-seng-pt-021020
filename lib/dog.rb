@@ -6,7 +6,8 @@ end
 
 fido = Dog.new
 
+
 def sit
-  sit = "The Dog is sitting"
-  puts sit
-end 
+  puts "The Dog is sitting"
+end
+end
